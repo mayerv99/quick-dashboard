@@ -1,0 +1,3194 @@
+{
+    "F111": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 5636.16,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 5538.24,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 6409.61,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 6530.46,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 4954.87,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 7287.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 5386.04,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 5566.07,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 9203.42,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 7686.3,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 9153.99,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 9653.71,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 13262.5,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 2280.31,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "D409": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 6837.51,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 350.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 8778.57,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 9279.1,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 4781.4,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 6405.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 3225.42,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 2980.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 11232.53,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 12600.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 6682.22,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 8098.28,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 3804.49,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1650.09,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "E015S1": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 2250.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 4027.12,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 10388.34,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 7758.62,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 10334.48,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 9363.3,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 4508.54,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 7970.17,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 12642.34,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8402.48,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 9640.13,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 8734.28,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 3465.85,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 352.3,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "D029S1": [
+        {
+            "month": "Outubro/2024",
+            "entry": 3115.25,
+            "taxes": 200,
+            "aluguel": 4500.0,
+            "total": 4700.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4500.0,
+            "total": 4500.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4500.0,
+            "total": 4500.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 1292.74,
+            "taxes": 200,
+            "aluguel": 4500.0,
+            "total": 4700.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 11776.3,
+            "taxes": 1750,
+            "aluguel": 4500.0,
+            "total": 6250.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 11043.24,
+            "taxes": 1100,
+            "aluguel": 4500.0,
+            "total": 5600.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 4116.86,
+            "taxes": 400,
+            "aluguel": 4500.0,
+            "total": 4900.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 1796.26,
+            "taxes": 800,
+            "aluguel": 4500.0,
+            "total": 5300.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 4104.98,
+            "taxes": 150,
+            "aluguel": 4500.0,
+            "total": 4650.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 4216.12,
+            "taxes": 900,
+            "aluguel": 4500.0,
+            "total": 5400.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 5500.34,
+            "taxes": 1050,
+            "aluguel": 4500.0,
+            "total": 5550.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 7207.45,
+            "taxes": 1300,
+            "aluguel": 4500.0,
+            "total": 5800.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 8837.5,
+            "taxes": 1250,
+            "aluguel": 4500.0,
+            "total": 5750.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 9076.26,
+            "taxes": 1000,
+            "aluguel": 4500.0,
+            "total": 5500.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 7293.21,
+            "taxes": 850,
+            "aluguel": 4500.0,
+            "total": 5350.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4500.0,
+            "total": 4500.0
+        }
+    ],
+    "G146": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 5639.19,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 3646.37,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 6510.48,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 5885.48,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 6648.3,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 7259.33,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 7494.6,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 6510.79,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 5635.08,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 6072.61,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 6938.51,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 5585.37,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 5296.44,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1697.94,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "H341": [
+        {
+            "month": "Outubro/2024",
+            "entry": 1810.65,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 10727.11,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 794.67,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 704.96,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 8754.83,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 13979.42,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 6738.03,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 6961.42,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 10083.87,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 10217.58,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 7300.86,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8366.19,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 6959.47,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 5083.36,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 10559.14,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 3901.74,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "H101": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 683.78,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 2119.36,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 2152.89,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 11081.9,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 4982.54,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 6888.61,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 6589.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 4332.22,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 4485.61,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 7640.86,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8105.28,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 9816.93,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 3440.62,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 7721.99,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 4526.57,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "H107": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 3643.72,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 938.94,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 4862.97,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 7495.36,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 5250.49,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 2153.39,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 350.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 4319.99,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 3599.96,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 6342.41,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 6535.93,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 5805.33,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 7533.44,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 6211.87,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 2381.41,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "H110": [
+        {
+            "month": "Outubro/2024",
+            "entry": 1418.34,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 2224.1,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 5035.7,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 3673.49,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 4347.31,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 2537.6,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 3614.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 4334.96,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 6533.93,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 4195.29,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 3044.79,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 3249.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 3770.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 3354.79,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "G302": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 3381.08,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 5206.61,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 4836.83,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 4624.96,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 2231.06,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 4186.96,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 3241.25,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 8554.02,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 6358.1,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 3001.24,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 8542.58,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 4435.13,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 5764.57,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1832.9,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "F107": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 1800.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 5700.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 5994.74,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 4830.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 12193.04,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 6080.84,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 300.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 4450.92,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 3625.62,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 12793.04,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 563.5,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 7408.03,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 5227.72,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1266.98,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "G407": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 1842.99,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 4394.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 12829.75,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 5428.31,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 4499.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 11342.26,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 5903.2,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 8399.59,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 6012.29,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8235.24,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 7772.27,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 5105.65,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 5730.23,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 4136.07,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "D204": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 1500.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 9320.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 11550.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 7800.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 3619.4,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 9833.44,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 7299.84,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 10837.44,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 9130.88,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 10609.97,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 5963.51,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 7599.97,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 5705.08,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1991.18,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "H103": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 1500.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 9280.63,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 3753.37,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 5396.53,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 3710.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 3050.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 6700.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 11456.1,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 9305.18,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 3796.92,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 4944.23,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 5139.88,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 5044.07,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 2235.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "D312": [
+        {
+            "month": "Outubro/2024",
+            "entry": 555.19,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 1955.2,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 9336.68,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 11741.89,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 12207.31,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 4672.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 16155.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 7807.53,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 6518.72,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 10250.6,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 3930.49,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 10596.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 13827.37,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 8890.06,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 3554.47,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "Nobile 407": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 346.54,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 2125.4,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 4849.83,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 5932.75,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 5946.16,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 2468.34,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 5725.8,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 4879.8,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 5608.42,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 3376.64,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 8125.96,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 8967.47,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 2142.96,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 2178.93,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "KP 110": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 294.88,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 1823.44,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 5352.69,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 5562.5,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 7105.73,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 4485.46,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 4226.01,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 4422.62,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 5706.6,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 5642.16,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 6409.59,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 5200.36,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 1051.3,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1500.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "H342": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 2550.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 7434.22,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 27279.99,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 5899.94,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 6919.56,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 6958.71,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 7893.63,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 5987.12,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 11895.21,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 9109.34,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 15603.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 3883.62,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 4013.46,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 4904.52,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "H209": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 3397.42,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 6374.14,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 9528.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 8010.79,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 6061.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 9981.25,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 7086.2,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 6114.72,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 9856.8,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 7073.28,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 14305.91,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 6947.39,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 6262.19,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 2955.36,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "GM 411": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 1844.87,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 1897.92,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 7565.31,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 7479.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 821.53,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 13461.33,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 9075.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 9523.11,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 5432.9,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8073.52,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 9120.38,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 4955.22,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 7645.5,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1314.16,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "Premier 3-004": [
+        {
+            "month": "Outubro/2024",
+            "entry": 2006.66,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 810.01,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 5235.4,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 6258.98,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 8083.69,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 6280.68,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 7359.7,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 5406.6,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 5601.63,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 4897.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 9055.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 6979.87,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 6229.18,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 6397.4,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 2998.81,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "F304": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 8000.1,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 8000.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 8400.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 8000.02,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 8000.01,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 8000.01,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 8000.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 8000.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8500.03,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 8499.9,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 8499.89,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 8500.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 8500.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "G226": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 2737.94,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 6002.77,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 3335.58,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 10872.43,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 6930.74,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 9995.04,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 6250.41,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 8370.2,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 6896.57,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8897.98,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 10650.3,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 3077.78,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 4997.05,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 4456.63,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "GM 1413": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 1398.84,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 4666.9,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 15280.67,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 6584.18,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 7105.75,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 10774.95,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 4463.5,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 13558.23,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 11816.08,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 8183.39,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 9619.28,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 10483.76,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 7187.88,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 5169.23,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "Studio GM 623": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 6339.97,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 2588.34,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 4477.56,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 7610.18,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 12365.13,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 4491.16,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 8581.24,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 18585.79,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 6746.51,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 5109.54,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 11376.37,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 5693.13,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 10348.5,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "GM 110": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 2217.51,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 6059.81,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 4469.6,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 13319.72,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 8086.97,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 2534.94,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 11013.29,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 7896.69,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 4811.45,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 7318.19,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 5975.09,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 4044.86,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 2167.02,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "SP 1113": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 237.7,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 5645.16,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 4882.82,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 2936.26,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 844.97,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 1567.84,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 245.11,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 5347.79,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 2963.05,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 4414.88,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 1681.73,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 998.75,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 1001.49,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ],
+    "F308": [
+        {
+            "month": "Outubro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2024",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2025",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Fevereiro/2025",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Março/2025",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Abril/2025",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Maio/2025",
+            "entry": 0.0,
+            "taxes": 0.0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Junho/2025",
+            "entry": 5600.0,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Julho/2025",
+            "entry": 10432.2,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Agosto/2025",
+            "entry": 8046.4,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Setembro/2025",
+            "entry": 6823.52,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Outubro/2025",
+            "entry": 6053.29,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Novembro/2025",
+            "entry": 8860.99,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Dezembro/2025",
+            "entry": 6924.66,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        },
+        {
+            "month": "Janeiro/2026",
+            "entry": 3011.24,
+            "taxes": 0,
+            "aluguel": 4000.0,
+            "total": 4000.0
+        }
+    ]
+}
