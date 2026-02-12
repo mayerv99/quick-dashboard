@@ -30,7 +30,6 @@ import {
 import {
   ChartContainer,
   ChartTooltip,
-  ChartTooltipContent,
   type ChartConfig,
 } from "@/components/ui/chart"
 
@@ -65,8 +64,6 @@ const CustomTooltip = ({ active, payload, label }: any) => {
   if (!active || !payload || !payload.length) return null;
 
   const data = payload[0].payload;
-
-  const lucro = data.entry - data.total;
 
   return (
     <div className="rounded-lg border bg-white p-4 shadow-lg text-sm space-y-1">
